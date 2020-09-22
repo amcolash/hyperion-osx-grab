@@ -1,0 +1,20 @@
+{
+  "name": "hyperion-osx-grab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew McOlash",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "screen-info": "^1.0.1",
+    "screenshot-desktop": "^1.12.2",
+    "sharp": "^0.26.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.2"
+  }
+}
