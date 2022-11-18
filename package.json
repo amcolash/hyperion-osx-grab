@@ -12,7 +12,7 @@
     "axios": "^0.20.0",
     "screen-info": "^1.0.1",
     "screenshot-desktop": "^1.12.2",
-    "sharp": "^0.26.0"
+    "sharp": "^0.30.5"
   },
   "devDependencies": {
     "prettier": "^2.1.2"
