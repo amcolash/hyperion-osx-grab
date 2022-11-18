@@ -9,7 +9,7 @@
   "author": "Andrew McOlash",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.2",
     "screen-info": "^1.0.1",
     "screenshot-desktop": "^1.12.2",
     "sharp": "^0.26.0"
